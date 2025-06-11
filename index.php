@@ -84,7 +84,7 @@
 </head>
 <title>Photo Reducer</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="fav icon" href="https://mobso.in/compress/favicon.png">
+<link rel="fav icon" href="favicon.png">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function() {
@@ -305,7 +305,7 @@ $("#displayImage").show();
                                   if(status=="success"){
                                     
                                       if(data=="true"){
-                                window.location = "https://www.mobso.in/compress/download.php?img="+finalCompressedImageName+"&name="+nameArray[0]+".jpg";  
+                                window.location = "download.php?img="+finalCompressedImageName+"&name="+nameArray[0]+".jpg";  
       
                 
                                       }
