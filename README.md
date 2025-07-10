@@ -1,12 +1,12 @@
 # Compress Image Web App
 
-A simple and lightweight image compression web app — the **web version** of an Android app that crossed **10 million+ downloads** on Google Play.
+A minimal image compression tool — the **web version** of my Android app that crossed **10 million+ downloads** on Google Play.
 
-This tool allows users to upload and compress images directly in their browser through a fast and user-friendly interface.
+This app allows users to compress images to a **specific file size**, making it perfect for online forms, messaging, or uploads where strict size limits matter.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live App
 
 👉 [Try the app here](https://mobso.in/compress_image_web_app/)
 
@@ -14,31 +14,47 @@ This tool allows users to upload and compress images directly in their browser t
 
 ## 📌 Features
 
-- 🖼️ Compress JPEG and PNG images via browser upload  
-- ⚡ Fast and simple PHP-based backend compression  
-- ✅ No ads, no logins, no distractions  
+- 🎯 Compress images to a **target file size** (e.g. under 100KB)
+- 🖼️ Supports JPEG and PNG (note: PNG transparency will be lost)
+- ⚙️ Backend compression using PHP (server-side)
+- ✅ Simple, ad-free, no-login experience
 - 🔓 Open-source under Apache License 2.0
 
-> ⚠️ **Note:** PNG images will lose transparency after compression.  
-> This tool is optimized for reducing file size, not preserving alpha channels.
+
+---
+
+## 📈 Usage & Background
+
+- Web version of the Android image compression app with **10M+ installs**
+- Web users primarily came from the Android app’s **Google Play listing**
+- At its peak, the web app had **100+ unique visitors per day**, without external promotion
+- Built to extend the app’s value for users needing desktop/web access
 
 ---
 
 ## 🛠️ Built With
 
 - Frontend: HTML, CSS, JavaScript  
-- Backend: PHP (for server-side compression)
+- Backend: PHP (image processing and size targeting)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
-
-
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ---
 
-## 📬 Feedback
+## 🙌 Acknowledgements
 
-Feel free to open an issue or reach out with feedback or improvements!
+Created to help users compress images below specific size limits — especially useful for job portals, government forms, and messaging apps.
+
+Thanks to the users of the original Android app who continued to use the web version via the Play Store link.
+
+---
+
+## 📬 Feedback & Contributions
+
+Feel free to open an issue or contribute improvements.
+
+💻 GitHub Repo: [https://github.com/kamalmaheshv/Compress-Image-Web-App](https://github.com/kamalmaheshv/Compress-Image-Web-App)
