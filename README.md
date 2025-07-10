@@ -35,12 +35,7 @@ This tool allows users to upload and compress images directly in their browser t
 
 This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
----
 
-## 🙌 Acknowledgements
-
-Originally inspired by the need for a fast, no-frills image compressor.  
-Based on the Android app [Compress Image](#) — used by over **10 million** users worldwide.
 
 ---
 
